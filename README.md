@@ -25,7 +25,7 @@ A simple authentication backend with user registration, login, Google OAuth, OTP
 1. Clone the repository:
    ```
    git clone https://github.com/Roshanbadgujar/Super_auth
-   cd cohort-auth
+   cd Super-auth
    ```
 
 2. Install dependencies:
